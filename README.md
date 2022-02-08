@@ -1,15 +1,8 @@
 # nodejs-redis
 
-<h4><b>Integrando NodeJS ao Redis</b></h4>
-
+<b><h4>Integrando NodeJS ao Redis</h4></b>
 
 <b> Container Docker para a Aplicação NodeJS </b> 
-
-
-index.js
-
-
-package.json
 
 
 <b> Container Docker para o Servidor Redis </b>

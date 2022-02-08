@@ -2,10 +2,10 @@
 
 <b><h3>Integrando NodeJS ao Redis</h3></b>
 
-<b> Container Docker para a Aplicação NodeJS </b> 
+<b> *Container Docker para a Aplicação NodeJS </b> 
 
 
-<b> Container Docker para o Servidor Redis </b>
+<b> *Container Docker para o Servidor Redis </b>
 
 
 <h3>Passos para a Criação da Aplicação com o Banco: </h3>
